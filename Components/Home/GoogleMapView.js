@@ -20,7 +20,7 @@ export default function GoogleMapView({placeList}) {
             longitudeDelta: 0.0421,
         })
     }
-  },[location])
+  },[location,setLocation])
  
 console.log("Location:",location)
   return (

@@ -6,12 +6,14 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAV6vTlAeSqx61Ix1p9qT4_ZNM4t6S57sE",
-  authDomain: "reactnative-fuel-app.firebaseapp.com",
-  projectId: "reactnative-fuel-app",
-  storageBucket: "reactnative-fuel-app.appspot.com",
-  messagingSenderId: "427233237225",
-  appId: "1:427233237225:web:65ab633069c1c2fb2d3878"
+  apiKey: "AIzaSyBF3_iJro9OnasNJI3Z46QmZCH1lmUTt8M",
+  authDomain: "truckers-95774.firebaseapp.com",
+  databaseURL: "https://truckers-95774-default-rtdb.firebaseio.com",
+  projectId: "truckers-95774",
+  storageBucket: "truckers-95774.appspot.com",
+  messagingSenderId: "1073817008230",
+  appId: "1:1073817008230:web:0ff522b15da2d53d14d5a7",
+  measurementId: "G-C5B32ZHGGM"
 };
 
 // Initialize Firebase
