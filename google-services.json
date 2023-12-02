@@ -1,33 +1,34 @@
 {
   "project_info": {
     "project_number": "1073817008230",
+    "firebase_url": "https://truckers-95774-default-rtdb.firebaseio.com",
     "project_id": "truckers-95774",
     "storage_bucket": "truckers-95774.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:887202519021:android:31ae95fe85813f79f979e4",
+        "mobilesdk_app_id": "1:1073817008230:android:a0cc1b470e52446914d5a7",
         "android_client_info": {
-          "package_name": "com.tubeguruji.codebox"
+          "package_name": "com.fuel_app.codes"
         }
       },
       "oauth_client": [
         {
-          "client_id": "887202519021-2dea39f983qf2h2sl90ru32048s8gb60.apps.googleusercontent.com",
+          "client_id": "1073817008230-99qni4qck47vl06rvh7ojt4q31n4qmtl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCFgrivo6_Va0_t8BS8Mi2rfuFCC9cduQg"
+          "current_key": "AIzaSyCZk_SjnvodpslU0fWY80i2PGJMiT5P71Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "887202519021-11851hl38v45bevdh1n29tqukd72h7gp.apps.googleusercontent.com",
+              "client_id": "1073817008230-99qni4qck47vl06rvh7ojt4q31n4qmtl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

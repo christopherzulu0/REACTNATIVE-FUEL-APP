@@ -22,8 +22,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "googleServicesFile": "./google-services.json",
-        "package":"com.tubeguruji.findplace",
-        "googleMapsApiKey":"AIzaSyCLY2grBYugnQJCZqcaWKiKhMUyQ4kWLFg"
+        "package":"com.fuel_app.findplace",
+        "googleMapsApiKey":"AIzaSyCZk_SjnvodpslU0fWY80i2PGJMiT5P71Q"
       }
     },
     "web": {

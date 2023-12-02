@@ -20,7 +20,7 @@ export default function GoogleMapViewFull({placeList}) {
               longitudeDelta: 0.0421,
           })
       }
-    },[location,setLocation])
+    },[location,mapRegion])
   return (
     <View>
           {location?    <MapView

@@ -20,13 +20,13 @@ export default function GoogleMapView({placeList}) {
             longitudeDelta: 0.0421,
         })
     }
-  },[location,setLocation])
+  },[location])
  
-console.log("Location:",location)
+
   return (
     <View style={{ marginTop: 20 }}>
       <Text style={{ fontSize: 20, 
-        marginBottom: 10, fontWeight: "600"}}>
+        marginBottom: 10, fontWeight: "600",fontFamily:'raleway-bold' }}>
         Top Near By Places
       </Text>
       <View style={{ borderRadius: 20, overflow: "hidden" }}>
